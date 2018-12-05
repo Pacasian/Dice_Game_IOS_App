@@ -1,0 +1,3 @@
+# Dice_Game_IOS_App
+This is basic Game for IOS Devices ...
+Bascially the game allow Four lucky try per match to get your lucky number in any one of two dices.
